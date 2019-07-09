@@ -1,0 +1,7 @@
+com\xuzhichao\bigdata\mr\flowcount\FlowCount$FlowCountReducer.class
+com\xuzhichao\bigdata\mr\flowcount\FlowBean.class
+com\xuzhichao\bigdata\mr\flowcount\FlowCount$FlowCountMapper.class
+com\xuzhichao\bigdata\mr\wcdemo\WordCountReducer.class
+com\xuzhichao\bigdata\mr\wcdemo\WordCountMapper.class
+com\xuzhichao\bigdata\mr\wcdemo\WordCountDriver.class
+com\xuzhichao\bigdata\mr\flowcount\FlowCount.class
